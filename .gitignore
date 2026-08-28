@@ -1,0 +1,12 @@
+.env
+.env.*
+.claude/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+nohup.out
+chat_history.json
+.pytest_cache/
+.DS_Store
